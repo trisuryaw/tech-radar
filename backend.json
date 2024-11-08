@@ -1,0 +1,331 @@
+[
+    {
+        "name": "Spring Boot 3.x",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "Spring Boot is the main framework for backend"
+    },
+    {
+        "name": "Nest Js",
+        "ring": "trial",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Golang",
+        "ring": "trial",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Java 11",
+        "ring": "trial",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Java 8",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Logback",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Lombok",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Hibernate",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Junit <= 4",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Junit 5",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Java 21",
+        "ring": "trial",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Jackson",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Junit <= 4",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Resilience4j",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Java 17",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Kotlin",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Log4j",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "GrallVM Java",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Laravel <8",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Laravel 11",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Ansible",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Terraform",
+        "ring": "assess",
+        "quadrant": "Tools",
+        "isNew": "true",
+        "description": ""
+    },
+    {
+        "name": "Vault",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Grafana",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Loki",
+        "ring": "assess",
+        "quadrant": "Tools",
+        "isNew": "true",
+        "description": ""
+    },
+    {
+        "name": "Kibana",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Logstash",
+        "ring": "hold",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "VMware",
+        "ring": "hold",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Proxmox",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "true",
+        "description": ""
+    },
+    {
+        "name": "Prometheus",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Nginx",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Docker",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Jenkins",
+        "ring": "hold",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Gitlab",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Gitlab CI/CD",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "OKD Openshift",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Ubuntu Server 22.04",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Fedora Server",
+        "ring": "hold",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Postgres", 
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "MongoDB", 
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "MySQL", 
+        "ring": "assess",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "MariaDB", 
+        "ring": "assess",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Postgres", 
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Elasticsearch",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Redis",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Memcache",
+        "ring": "assess",
+        "quadrant": "Platforms",
+        "isNew": "true",
+        "description": ""
+    },
+    {
+        "name": "Microservice",
+        "ring": "adopt",
+        "quadrant": "Techniques",
+        "isNew": "true",
+        "description": ""
+    }
+] 
