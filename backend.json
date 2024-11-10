@@ -56,7 +56,7 @@
         "description": ""
     },
     {
-        "name": "Junit <= 4",
+        "name": "Junit 1-4",
         "ring": "hold",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
@@ -84,7 +84,7 @@
         "description": ""
     },
     {
-        "name": "Junit <= 4",
+        "name": "Junit 1-4",
         "ring": "hold",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
@@ -119,7 +119,7 @@
         "description": ""
     },
     {
-        "name": "GrallVM Java",
+        "name": "GraalVM Java",
         "ring": "assess",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
