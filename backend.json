@@ -189,20 +189,6 @@
         "description": ""
     },
     {
-        "name": "VMware",
-        "ring": "hold",
-        "quadrant": "Platforms",
-        "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Proxmox",
-        "ring": "adopt",
-        "quadrant": "Platforms",
-        "isNew": "true",
-        "description": ""
-    },
-    {
         "name": "Prometheus",
         "ring": "adopt",
         "quadrant": "Tools",
@@ -227,41 +213,6 @@
         "name": "Jenkins",
         "ring": "hold",
         "quadrant": "Tools",
-        "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Gitlab",
-        "ring": "adopt",
-        "quadrant": "Platforms",
-        "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Gitlab CI/CD",
-        "ring": "adopt",
-        "quadrant": "Tools",
-        "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "OKD Openshift",
-        "ring": "adopt",
-        "quadrant": "Platforms",
-        "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Ubuntu Server 22.04",
-        "ring": "adopt",
-        "quadrant": "Platforms",
-        "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Fedora Server",
-        "ring": "hold",
-        "quadrant": "Platforms",
         "isNew": "false",
         "description": ""
     },
