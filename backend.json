@@ -1,6 +1,6 @@
 [
     {
-        "name": "Spring Boot 3.x",
+        "name": "Spring Boot 3.x.x",
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
@@ -10,7 +10,7 @@
         "name": "Nest Js",
         "ring": "trial",
         "quadrant": "Languages and Frameworks",
-        "isNew": "false",
+        "isNew": "true",
         "description": ""
     },
     {
@@ -22,10 +22,10 @@
     },
     {
         "name": "Java 11",
-        "ring": "trial",
+        "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "The old project is still using Java 11."
     },
     {
         "name": "Java 8",
@@ -43,14 +43,14 @@
     },
     {
         "name": "Lombok",
-        "ring": "hold",
+        "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Lombok Library"
     },
     {
         "name": "Hibernate",
-        "ring": "hold",
+        "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
         "description": ""
@@ -67,13 +67,13 @@
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "More powerful than JUnit 4."
     },
     {
         "name": "Java 21",
         "ring": "trial",
         "quadrant": "Languages and Frameworks",
-        "isNew": "false",
+        "isNew": "true",
         "description": ""
     },
     {
@@ -81,14 +81,7 @@
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Junit 1-4",
-        "ring": "hold",
-        "quadrant": "Languages and Frameworks",
-        "isNew": "false",
-        "description": ""
+        "description": "The Jackson library is powerful in JSON serialization and deserialization."
     },
     {
         "name": "Resilience4j",
@@ -126,7 +119,7 @@
         "description": ""
     },
     {
-        "name": "Laravel <8",
+        "name": "Laravel 1-8",
         "ring": "hold",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
@@ -278,5 +271,19 @@
         "quadrant": "Techniques",
         "isNew": "true",
         "description": ""
-    }
+    },
+    {
+        "name": "MVC Architecture",
+        "ring": "adopt",
+        "quadrant": "Techniques",
+        "isNew": "false",
+        "description": ""
+    },
+    {
+        "name": "Event Driven Architecture",
+        "ring": "adopt",
+        "quadrant": "Techniques",
+        "isNew": "true",
+        "description": ""
+    },
 ] 
