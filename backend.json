@@ -285,5 +285,12 @@
         "quadrant": "Techniques",
         "isNew": "true",
         "description": ""
+    },
+    {
+        "name": "Monolith Architecture",
+        "ring": "adopt",
+        "quadrant": "Techniques",
+        "isNew": "false",
+        "description": ""
     }
 ] 
