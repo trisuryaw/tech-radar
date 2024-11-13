@@ -1,24 +1,24 @@
 [
     {
-        "name": "Spring Boot 3.x.x",
+        "name": "Spring Boot 3.3.5",
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
         "description": "Spring Boot is the main framework for backend"
     },
     {
-        "name": "Nest Js",
+        "name": "Nest js",
         "ring": "trial",
         "quadrant": "Languages and Frameworks",
         "isNew": "true",
-        "description": ""
+        "description": "Nest is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)."
     },
     {
-        "name": "Golang",
+        "name": "Go",
         "ring": "trial",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Go, or Golang, is popular for its simplicity, efficiency, and excellent concurrency support. It is designed to be fast and easy to learn, making it suitable for building high-performance, scalable applications."
     },
     {
         "name": "Java 11",
@@ -39,21 +39,21 @@
         "ring": "hold",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Logback is considered the successor to Log4j, offering improved performance and more features."
     },
     {
         "name": "Lombok",
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": "Lombok Library"
+        "description": "Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java. Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more."
     },
     {
         "name": "Hibernate",
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Hibernate ORM is an object-relational mapping tool for the Java programming language."
     },
     {
         "name": "Junit 1-4",
@@ -67,140 +67,126 @@
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": "More powerful than JUnit 4."
+        "description": "JUnit 5 is more powerful than JUnit 4 because it has many new features that improve the testing experience."
     },
     {
         "name": "Java 21",
         "ring": "trial",
         "quadrant": "Languages and Frameworks",
         "isNew": "true",
-        "description": ""
+        "description": "Java 21 (LTS) brings improvements to the Z Garbage Collector, another round of incubating an API for performant vector applications, and a preview of an alternative to the current Java native interface (JNI)."
     },
     {
         "name": "Jackson",
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": "The Jackson library is powerful in JSON serialization and deserialization."
+        "description": "Jackson is a high-performance JSON processor used for Java. It is the most popular library used for serializing Java objects or Map to JSON and vice-versa."
     },
     {
         "name": "Resilience4j",
         "ring": "assess",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Resilience4j is a library that helps to build resilient and fault-tolerant applications in Java."
     },
     {
         "name": "Java 17",
         "ring": "adopt",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Java 17 LTS."
     },
     {
         "name": "Kotlin",
         "ring": "assess",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Kotlin is a modern, open-source programming language that's used to develop Android applications."
     },
     {
-        "name": "Log4j",
-        "ring": "hold",
+        "name": "Log4j2",
+        "ring": "assess",
         "quadrant": "Languages and Frameworks",
-        "isNew": "false",
-        "description": ""
+        "isNew": "true",
+        "description": "Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1. x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture."
     },
     {
         "name": "GraalVM Java",
         "ring": "assess",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Laravel 1-8",
-        "ring": "hold",
-        "quadrant": "Languages and Frameworks",
-        "isNew": "false",
-        "description": ""
+        "description": "GraalVM is a Java Development Kit (JDK) that can speed up the performance of Java applications and make it easier to build and run Java cloud native services."
     },
     {
         "name": "Laravel 11",
         "ring": "assess",
         "quadrant": "Languages and Frameworks",
         "isNew": "false",
-        "description": ""
+        "description": "Laravel 11 introduces a streamlined application structure for new Laravel applications, without requiring any changes to existing applications. The new application structure is intended to provide a leaner, more modern experience, while retaining many of the concepts that Laravel developers are already familiar with."
     },
     {
         "name": "Ansible",
         "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "false",
-        "description": ""
+        "description": "Ansible is an open-source IT automation tool that automates tasks."
     },
     {
         "name": "Terraform",
         "ring": "assess",
         "quadrant": "Tools",
         "isNew": "true",
-        "description": ""
+        "description": "Terraform is an open-source tool that automates the management and provisioning of infrastructure in a cloud or data center."
     },
     {
         "name": "Vault",
         "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "false",
-        "description": ""
+        "description": "Vault provides encryption as a service with centralized key management to simplify encrypting data in transit and stored across clouds and datacenters."
     },
     {
         "name": "Grafana",
         "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "false",
-        "description": ""
+        "description": "Grafana is a multi-platform open source analytics and interactive visualization web application. It can produce charts, graphs, and alerts for the web when connected to supported data sources."
     },
     {
         "name": "Loki",
         "ring": "assess",
         "quadrant": "Tools",
         "isNew": "true",
-        "description": ""
+        "description": "Loki aims to simplify effective and user-friendly collection and storage of logs."
     },
     {
         "name": "Kibana",
         "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Logstash",
-        "ring": "hold",
-        "quadrant": "Tools",
-        "isNew": "false",
-        "description": ""
+        "description": "Kibana is a source-available data visualization dashboard software for Elasticsearch."
     },
     {
         "name": "Prometheus",
         "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "false",
-        "description": ""
+        "description": "Prometheus is an open-source tool that monitors and alerts systems by collecting and storing metrics as time series data."
     },
     {
         "name": "Nginx",
         "ring": "adopt",
         "quadrant": "Tools",
         "isNew": "false",
-        "description": ""
+        "description": "Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache."
     },
     {
         "name": "Docker",
         "ring": "adopt",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
+        "description": "Docker is an open source platform that enables developers to build, deploy, run, update and manage containerized applications."
     },
     {
         "name": "Jenkins",
@@ -210,87 +196,80 @@
         "description": ""
     },
     {
-        "name": "Postgres", 
+        "name": "Postgres 16", 
         "ring": "adopt",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
+        "description": "PostgreSQL is a relational database management system ( RDBMS )."
     },
     {
         "name": "MongoDB", 
         "ring": "adopt",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
+        "description": "MongoDB is a document database management system."
     },
     {
         "name": "MySQL", 
         "ring": "assess",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
+        "description": "MySQL is fast, reliable, scalable, and easy to use."
     },
     {
         "name": "MariaDB", 
         "ring": "assess",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
-    },
-    {
-        "name": "Postgres", 
-        "ring": "adopt",
-        "quadrant": "Platforms",
-        "isNew": "false",
-        "description": ""
+        "description": "Alternatives to MySQL"
     },
     {
         "name": "Elasticsearch",
         "ring": "adopt",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
+        "description": "Elasticsearch is a search engine based on Apache Lucene."
     },
     {
         "name": "Redis",
         "ring": "adopt",
         "quadrant": "Platforms",
         "isNew": "false",
-        "description": ""
+        "description": "Redis is a source-available, in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability."
     },
     {
         "name": "Memcache",
         "ring": "assess",
         "quadrant": "Platforms",
         "isNew": "true",
-        "description": ""
+        "description": "Memcached is a general-purpose distributed memory-caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source must be read."
     },
     {
         "name": "Microservice",
         "ring": "adopt",
         "quadrant": "Techniques",
         "isNew": "true",
-        "description": ""
+        "description": "Microservices are a software development style that breaks large applications into smaller, independent services that communicate with each other through APIs."
     },
     {
         "name": "MVC Architecture",
         "ring": "adopt",
         "quadrant": "Techniques",
         "isNew": "false",
-        "description": ""
+        "description": "Model-View-Controller (MVC) framework is an architectural/design pattern that separates an application into three main logical components Model, View, and Controller."
     },
     {
         "name": "Event Driven Architecture",
         "ring": "adopt",
         "quadrant": "Techniques",
         "isNew": "true",
-        "description": ""
+        "description": "Event-driven architecture is a software architecture paradigm concerning the production and detection of events. Event-driven architectures are evolutionary in nature and provide a high degree of fault tolerance, performance, and scalability. However, they are complex and inherently challenging to test."
     },
     {
         "name": "Monolith Architecture",
         "ring": "adopt",
         "quadrant": "Techniques",
         "isNew": "false",
-        "description": ""
+        "description": "Monolithic architecture is a singular, large computing network with one code base that couples all of the business concerns together."
     }
 ] 
