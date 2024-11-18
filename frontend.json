@@ -1,0 +1,177 @@
+[
+    {
+        "name": "React",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "React is the main framework for frontend"
+    },
+    {
+        "name": "Javascript",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "Javascript is a programming language"
+    },
+    {
+        "name": "ECMAScript 6+",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "ES6 is the sixth edition of JavaScript introduced in June 2015."
+    },
+    {
+        "name": "HTML5",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "HTML5 is a markup language used for structuring and presenting hypertext documents on the World Wide Web."
+    },
+    {
+        "name": "CSS3",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "CSS3 (Cascading Style Sheets Level 3) is a styling language that's used to format and style web pages and web applications."
+    },
+    {
+        "name": "jQuery",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animations, and Ajax."
+    },
+    {
+        "name": "Node js 14",
+        "ring": "hold",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "Node.js 14 reached its End of Life (EOL) in April 2023, meaning it no longer receives security updates or official support"
+    },
+    {
+        "name": "TypeScript",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A strongly-typed superset of JavaScript that improves developer productivity and code maintainability."
+    },
+    {
+        "name": "Axios",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A popular HTTP client for making requests in JavaScript, known for its simplicity and flexibility."
+    },
+    {
+        "name": "Vite",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": "A fast build tool and development server optimized for modern web frameworks like Vue and React."
+    },
+    {
+        "name": "Vue 3",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "The latest version of Vue.js with Composition API and other performance improvements, under evaluation."
+    },
+    {
+        "name": "Nuxt.js",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A framework for server-side rendering and static site generation with Vue.js, currently being assessed."
+    },
+    {
+        "name": "HTML",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "The core markup language for structuring web content, essential for all web projects."
+    },
+    {
+        "name": "Node.js 18",
+        "ring": "trial",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A stable and actively supported version of Node.js with enhanced features, suitable for evaluation."
+    },
+    {
+        "name": "GraphQL",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A query language for APIs offering flexibility and efficiency, being explored for potential benefits."
+    },
+    {
+        "name": "Jest",
+        "ring": "adopt",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A robust testing framework for JavaScript with built-in mocking and snapshot testing capabilities."
+    },
+    {
+        "name": "Vitest",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A fast unit testing framework optimized for modern projects, under evaluation for adoption."
+    },
+    {
+        "name": "PNPM",
+        "ring": "trial",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": "A performant and space-efficient package manager for JavaScript projects, being trialed."
+    },
+    {
+        "name": "NPM",
+        "ring": "adopt",
+        "quadrant": "Tools",
+        "isNew": "false",
+        "description": "The default and widely-used package manager for JavaScript projects, providing a vast ecosystem."
+    },
+    {
+        "name": "Nginx",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": "A high-performance web server and reverse proxy widely adopted for scalable and reliable hosting."
+    },
+    {
+        "name": "Docker",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": "A containerization platform enabling consistent and efficient deployment across environments."
+    },
+    {
+        "name": "Visual Studio Code",
+        "ring": "adopt",
+        "quadrant": "Platforms",
+        "isNew": "false",
+        "description": "A lightweight and powerful code editor with extensive extensions and developer tooling."
+    },
+    {
+        "name": "PWA",
+        "ring": "adopt",
+        "quadrant": "Techniques",
+        "isNew": "false",
+        "description": "A technique for building web apps that offer offline capabilities and native app-like experiences."
+    },
+    {
+        "name": "Lazy Rendering",
+        "ring": "adopt",
+        "quadrant": "Techniques",
+        "isNew": "false",
+        "description": "A rendering technique that improves performance by loading content as it becomes visible."
+    },
+    {
+        "name": "Node.js 22.11",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "false",
+        "description": "A stable and actively supported version of Node.js with enhanced features, suitable for evaluation."
+    }
+]
