@@ -13,8 +13,8 @@ We use four rings with the following semantics:
 
 For more details, you can access the full Tech Radar for Backend and Frontend:
 
-- [Backend Tech Radar](www.google.com) (_Last updated: 18 Nov 2024_)
-- [Frontend Tech Radar](www.google.com) (_Last updated: 18 Nov 2024_)
+- [Backend Tech Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Ftrisuryaw%2Ftech-radar%2Frefs%2Fheads%2Fmain%2Fbackend.json) (_Last updated: 18 Nov 2024_)
+- [Frontend Tech Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Ftrisuryaw%2Ftech-radar%2Frefs%2Fheads%2Fmain%2Ffrontend.json) (_Last updated: 18 Nov 2024_)
   
 
 # What is the purpose?
