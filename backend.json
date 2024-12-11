@@ -271,5 +271,12 @@
         "quadrant": "Techniques",
         "isNew": "false",
         "description": "Monolithic architecture is a singular, large computing network with one code base that couples all of the business concerns together."
+    },
+    {
+        "name": "FrankenPHP",
+        "ring": "assess",
+        "quadrant": "Languages and Frameworks",
+        "isNew": "true",
+        "description": "FrankenPHP gives superpowers to your PHP apps thanks to its stunning features: Early Hints, worker mode, real-time capabilities, automatic HTTPS, HTTP/2, and HTTP/3 support. FrankenPHP works with any PHP app and makes your Laravel and Symfony projects faster than ever thanks to their official integrations with the worker mode."
     }
 ] 
